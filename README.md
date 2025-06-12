@@ -14,5 +14,6 @@ A simple Blackjack (21) game playable in the terminal, written in Python.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/blackjack-terminal-game.git
+git clone https://github.com/Farhan14225/blackjack-terminal-game.git
 cd blackjack-terminal-game
+python blackjack.py
